@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Turkish English Exercise Application from C#**
 
-- 📫 How to reach me **test@gmail.com**
+- 📫 How to reach me **dogukankurnaz@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
