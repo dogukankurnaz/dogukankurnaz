@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **dogukankurnaz@gmail.com**
 - https://dogukankurnaz.com/
+![](https://i.hizliresim.com/e1r1vq2.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
