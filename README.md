@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukankurnaz" alt="dogukankurnaz" /></a> </p>
 
-- 🔭 I’m currently working on **Turkish English Exercise Application from C#**
+- 🔭 I’m currently working on **My final project, MVC-ENTITY Framework e-Commerce**
 
 - 📫 How to reach me **dogukankurnaz@gmail.com**
 - https://dogukankurnaz.com/
