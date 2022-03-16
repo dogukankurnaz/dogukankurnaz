@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on **Scripting on Bash!**
 
+
 - 📫 How to reach me **dogukankurnaz@gmail.com**
 - https://dogukankurnaz.com/
 
