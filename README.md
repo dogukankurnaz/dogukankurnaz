@@ -21,8 +21,8 @@
 <br />
 
 <div align="center">
-<img src="https://i.hizliresim.com/jax58tl.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://i.hizliresim.com/jax58tl.gif" align="center" />
+</div>    
 
 <br/>  
 
