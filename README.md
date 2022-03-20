@@ -47,7 +47,9 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukankurnaz" alt="dogukankurnaz" /></a> </p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dogukankurnaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukankurnaz&hide_border=true&layout=compact" align="center" /></div>  
