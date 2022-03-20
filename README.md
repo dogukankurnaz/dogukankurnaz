@@ -4,7 +4,21 @@
   
 
 ### <ins><div align="center">I am a software engineering student . Im adding everything I've learned here! I am interested in Network security, Server security, IDS and IPS systems,Linux, Cyber security, Python and Bash/Shell Script.</div></ins>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dogukankurnaz&&style=flat-square" align="center" />
+</div>  
   
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/dogukankurnaz" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />  
 
 <br/>  
 
@@ -80,21 +94,4 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dogukankurnaz&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/dogukankurnaz" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
 
