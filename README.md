@@ -18,7 +18,11 @@
                     align="center"
                 />
             </a></div>
-<br />  
+<br />
+
+<div align="center">
+<img src="https://i.hizliresim.com/jax58tl.gif" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 
