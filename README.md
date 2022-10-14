@@ -3,7 +3,7 @@
 </div>  
   
 
-### <ins><div align="center">I am a software engineering student . Im adding everything I've learned here! I am interested in Network security, Server security, IDS and IPS systems,Linux, Cyber security, Python and Bash/Shell Script.</div></ins>  
+### <ins><div align="center">I am a software engineer . Im adding everything I've learned here! I am interested in Network security, Server security, IDS and IPS systems,Linux, Cyber security, Python and Bash/Shell Script.</div></ins>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dogukankurnaz&&style=flat-square" align="center" />
 </div>  
