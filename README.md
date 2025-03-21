@@ -2,6 +2,7 @@
 <img src="https://i.hizliresim.com/kvfth8n.gif" align="center" style="width: 100%" />
 </div>  
   
+![](https://i.hizliresim.com/kvfth8n.gif)
 
 ### <ins><div align="center">I am a software engineer . Im adding everything I've learned here! I am interested in Network security, Server security, IDS and IPS systems,Linux, Cyber security, Python and Bash/Shell Script.</div></ins>  
 <div align="center">
