@@ -79,8 +79,7 @@
 </td>
 
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukankurnaz&hide_border=true&layout=compact&theme=dark" style="width: 95%" />
-</td>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=dogukankurnaz&theme=crt" />
 </tr>
 </table>
 
