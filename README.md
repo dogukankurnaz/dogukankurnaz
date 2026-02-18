@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://pixel-profile.vercel.app/api/github-stats?username=dogukankurnaz&theme=crt" />
+<img width="75%" src="https://pixel-profile.vercel.app/api/github-stats?username=dogukankurnaz&theme=crt" />
 
 </div>
 
