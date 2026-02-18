@@ -22,11 +22,13 @@
 
 <img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+---
+
 ## ⚔️ Security Domains
 
 - 🔎 Threat Intelligence & Attack Pattern Analysis  
 - 🩸 Red Team Simulation & Adversary Emulation  
-- 🛡 Blue Team Detection Engineering  
+- 🛡 Detection Engineering & Blue Team Operations  
 - 🤖 AI Security & Security Automation  
 - 📊 EDR / XDR Evaluation & Telemetry Research  
 - 🎯 MITRE ATT&CK Aligned Testing  
@@ -70,18 +72,15 @@
 
 <br/>
 
+---
+
 ## 📊 GitHub Intelligence  
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=dogukankurnaz&show_icons=true&count_private=true&hide_border=true&theme=dark" style="width: 95%" />
-</td>
+<div align="center">
 
-<td valign="top" width="50%">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=dogukankurnaz&theme=crt" />
-</tr>
-</table>
+<img width="49%" src="https://pixel-profile.vercel.app/api/github-stats?username=dogukankurnaz&theme=crt" />
+
+</div>
 
 <br/>
 
